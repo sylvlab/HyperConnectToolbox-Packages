@@ -1,0 +1,66 @@
+[
+  {
+    "id": "plugin",
+    "version": "1.0.1",
+    "file": "plugin-1.0.1.hctapp",
+    "dirtySource": true,
+    "sourceRevision": "832aa3a9fb9d278bfcafffb591676d0b66dbdef9",
+    "sha256": "FA190B1E055CECBA50EF8FB4C481280EFE386E9A9C39DC3EAF41D95C73E283B8"
+  },
+  {
+    "id": "device",
+    "version": "1.0.1",
+    "file": "device-1.0.1.hctapp",
+    "dirtySource": true,
+    "sourceRevision": "832aa3a9fb9d278bfcafffb591676d0b66dbdef9",
+    "sha256": "68A54BA89CF32CDA6B20DAFAEE1BAB11DCBCF02D3B93DC6C2EA19FF9DD30F6E2"
+  },
+  {
+    "id": "audio",
+    "version": "1.0.1",
+    "file": "audio-1.0.1.hctapp",
+    "dirtySource": true,
+    "sourceRevision": "832aa3a9fb9d278bfcafffb591676d0b66dbdef9",
+    "sha256": "526640E81EAB72C6D7B06083A22F73BD2C95959FA4D67159F9BA919812625988"
+  },
+  {
+    "id": "mouse",
+    "version": "1.0.1",
+    "file": "mouse-1.0.1.hctapp",
+    "dirtySource": true,
+    "sourceRevision": "832aa3a9fb9d278bfcafffb591676d0b66dbdef9",
+    "sha256": "0527BD27B88BBA3FC4992AFEAD9DC0141672180370EEC1AE949EF07754EEB65C"
+  },
+  {
+    "id": "camera",
+    "version": "1.0.1",
+    "file": "camera-1.0.1.hctapp",
+    "dirtySource": true,
+    "sourceRevision": "832aa3a9fb9d278bfcafffb591676d0b66dbdef9",
+    "sha256": "AEC3CCB306C3752B93D6B8CC33599920B4EE4CC23EEB206EA3A5A3284D57D203"
+  },
+  {
+    "id": "status",
+    "version": "1.0.1",
+    "file": "status-1.0.1.hctapp",
+    "dirtySource": true,
+    "sourceRevision": "832aa3a9fb9d278bfcafffb591676d0b66dbdef9",
+    "sha256": "A006753786F5C17FE7CAB869F16FD5E03D2F921A46C0BB0C92626D03CE51B2A9"
+  },
+  {
+    "id": "service",
+    "version": "1.0.1",
+    "file": "service-1.0.1.hctapp",
+    "dirtySource": true,
+    "sourceRevision": "832aa3a9fb9d278bfcafffb591676d0b66dbdef9",
+    "sha256": "64537944850FCD360010217E027FE6FB7CF89586480C5B4255A7AAE2776A927E"
+  },
+  {
+    "id": "windows",
+    "version": "1.0.1",
+    "file": "windows-1.0.1.hctapp",
+    "dirtySource": true,
+    "sourceRevision": "832aa3a9fb9d278bfcafffb591676d0b66dbdef9",
+    "sha256": "29A9BA6AFB9420BFCA3856F0CB181A9DB1D4C6E974F4A4523CB6D37F9D25FC8E"
+  }
+]

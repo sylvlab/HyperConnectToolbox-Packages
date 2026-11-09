@@ -1,0 +1,14 @@
+{
+  "keys": [
+    {
+      "publicBlob": "RUNTMSAAAAD8bYCCXeDEhr06gVLrIa+nfAqf4x2UjpVlUw+fOawwUgtn1dzTPVqy6lQPwnScvFlUR/DFXjHKC4Inzr5VNBYS",
+      "keyId": "236290925bc8c53ba6fa490379f5c7530babb976faaf82a235ce3054e187bf67",
+      "publisher": "Microfanst Tech.",
+      "status": "active",
+      "purposes": [
+        "hct-tool",
+        "hct-tool-index"
+      ]
+    }
+  ]
+}
