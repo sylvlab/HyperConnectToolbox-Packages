@@ -1,0 +1,66 @@
+{
+  "originalBuildReceiptsRetained": true,
+  "hostVersion": "0.5.0",
+  "hostSourceCommit": "2871a2d6b0ff6f87aec35263b6d3f0210c4e968c",
+  "hostReleaseCommit": "b738c43f9f736e7773bf4b310240203add7368a4",
+  "acceptanceRecord": "https://github.com/sylvlab/HyperConnectToolbox/blob/v0.5.0/docs/acceptance/RELEASE-0.5.0.md",
+  "unchangedToolAndCoreInputsSince": "2ad56edef23aa4fd286248e7e0c620ac894baf74",
+  "packages": [
+    {
+      "id": "audio",
+      "version": "1.1.0",
+      "minHost": "0.5.0",
+      "sha256": "7ACD4391F661E97F355B7EB4FA2C477F4755EFBF44993EAEB3EA4FD848C3D4DF",
+      "size": 75207898
+    },
+    {
+      "id": "camera",
+      "version": "1.1.0",
+      "minHost": "0.5.0",
+      "sha256": "2A6B496F0C0045EAF11F7DE3C88DD0D81904A5CD94D52F0149DE9FFE1BD31B9F",
+      "size": 75207933
+    },
+    {
+      "id": "device",
+      "version": "1.1.0",
+      "minHost": "0.5.0",
+      "sha256": "31882401E1002FF67C9D5AF0DF763245D2CD5AADA6FF0E19F30F32BE153654DF",
+      "size": 75206947
+    },
+    {
+      "id": "mouse",
+      "version": "1.1.0",
+      "minHost": "0.5.0",
+      "sha256": "C2008CE2C2F98CF7BA5CFD1238CE7C60E970A12AC4E6DEE5E146B4AD6218975E",
+      "size": 75207919
+    },
+    {
+      "id": "plugin",
+      "version": "1.1.0",
+      "minHost": "0.5.0",
+      "sha256": "ED4E6ACEDB65838B0E5A4E52FF765FCB743BE873997C75C0E6F96493813F3015",
+      "size": 83101429
+    },
+    {
+      "id": "service",
+      "version": "1.1.0",
+      "minHost": "0.5.0",
+      "sha256": "D35A10CB9CECDEF4414CC6CC036CA2367D4A7141939BF2716178C955F294A9C5",
+      "size": 75206906
+    },
+    {
+      "id": "status",
+      "version": "1.1.0",
+      "minHost": "0.5.0",
+      "sha256": "FAEDC3388FBF89470048DE0312DB225C1991BCB3E8E98D1A3BFF28F48844EC28",
+      "size": 75206907
+    },
+    {
+      "id": "windows",
+      "version": "1.1.0",
+      "minHost": "0.5.0",
+      "sha256": "016DDEEDF4C4A3DC0EB3DD244D5B6EE5EB342934F5EEFDCC2680282821A945EB",
+      "size": 75206888
+    }
+  ]
+}
