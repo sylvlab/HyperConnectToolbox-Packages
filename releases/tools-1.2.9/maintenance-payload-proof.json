@@ -1,0 +1,66 @@
+[
+  {
+    "id": "audio",
+    "sourceVersion": "1.2.8",
+    "version": "1.2.9",
+    "fileCount": 1,
+    "payloadAndPermissionsIdentical": true,
+    "sha256": "A719E12AEF22F49649AB0612EE52996DB83CCBFB650723BE32110B4FB3DF3197"
+  },
+  {
+    "id": "camera",
+    "sourceVersion": "1.2.8",
+    "version": "1.2.9",
+    "fileCount": 1,
+    "payloadAndPermissionsIdentical": true,
+    "sha256": "5C2944C6CB1BC53F227210B15E2010E4B7F40BB8470E4CC5FD860A0CD622927E"
+  },
+  {
+    "id": "device",
+    "sourceVersion": "1.2.8",
+    "version": "1.2.9",
+    "fileCount": 0,
+    "payloadAndPermissionsIdentical": true,
+    "sha256": "3D770D0B29380AB01DCD47E16ECB1ED8A8EB0283D6A6EAC08453DC21B6D81E5F"
+  },
+  {
+    "id": "mouse",
+    "sourceVersion": "1.2.8",
+    "version": "1.2.9",
+    "fileCount": 1,
+    "payloadAndPermissionsIdentical": true,
+    "sha256": "2B85CBD688694C25CCA4DF2611387CCC4CDAF557691EDF0C54629CF69E7664B6"
+  },
+  {
+    "id": "plugin",
+    "sourceVersion": "1.2.8",
+    "version": "1.2.9",
+    "fileCount": 3,
+    "payloadAndPermissionsIdentical": true,
+    "sha256": "8A0697DF48214E02A447427A3C2ADA052F410449AEC4D3DDAB7E7A16A0B83854"
+  },
+  {
+    "id": "service",
+    "sourceVersion": "1.2.8",
+    "version": "1.2.9",
+    "fileCount": 0,
+    "payloadAndPermissionsIdentical": true,
+    "sha256": "5C26ED6AB77527308101A6F09BF1BFC2AA0663068240B2250ADF0051DEBB69CD"
+  },
+  {
+    "id": "status",
+    "sourceVersion": "1.2.8",
+    "version": "1.2.9",
+    "fileCount": 0,
+    "payloadAndPermissionsIdentical": true,
+    "sha256": "FADFB24B4ABCC3E7F1634F9928F2E8CEEE3846722B0B92A6CEECE6E64592F879"
+  },
+  {
+    "id": "windows",
+    "sourceVersion": "1.2.8",
+    "version": "1.2.9",
+    "fileCount": 0,
+    "payloadAndPermissionsIdentical": true,
+    "sha256": "94A8BE510C498F69AF2AFFE6A4D5E5A064759B0D6A2A69ABDFFA2E8479074D17"
+  }
+]

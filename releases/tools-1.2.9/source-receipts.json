@@ -1,0 +1,90 @@
+[
+  {
+    "sha256": "94A8BE510C498F69AF2AFFE6A4D5E5A064759B0D6A2A69ABDFFA2E8479074D17",
+    "version": "1.2.9",
+    "inputSchema": 2,
+    "sourceRevision": "34240cb09e5c332147548a056b846d3fe9186efa",
+    "legacySourceSha256": "8AFC2FDCA2D3570DDD5A2DB1A3DF40C80FACFD10C4CA7F2801D59E62576C5139",
+    "dirtySource": false,
+    "id": "windows",
+    "inputVersion": "1.2.8",
+    "file": "windows-1.2.9.hctapp"
+  },
+  {
+    "sha256": "5C26ED6AB77527308101A6F09BF1BFC2AA0663068240B2250ADF0051DEBB69CD",
+    "version": "1.2.9",
+    "inputSchema": 2,
+    "sourceRevision": "34240cb09e5c332147548a056b846d3fe9186efa",
+    "legacySourceSha256": "8E840EC870EB321D5BC9CECBB0EFD7A1C7EBABA8E5E98D71260B1FD2CB54432A",
+    "dirtySource": false,
+    "id": "service",
+    "inputVersion": "1.2.8",
+    "file": "service-1.2.9.hctapp"
+  },
+  {
+    "sha256": "FADFB24B4ABCC3E7F1634F9928F2E8CEEE3846722B0B92A6CEECE6E64592F879",
+    "version": "1.2.9",
+    "inputSchema": 2,
+    "sourceRevision": "34240cb09e5c332147548a056b846d3fe9186efa",
+    "legacySourceSha256": "2E0EEFC2124570C52A34A8EDEC690F461A92545CE90995E7CCD7EC10410AF34E",
+    "dirtySource": false,
+    "id": "status",
+    "inputVersion": "1.2.8",
+    "file": "status-1.2.9.hctapp"
+  },
+  {
+    "sha256": "3D770D0B29380AB01DCD47E16ECB1ED8A8EB0283D6A6EAC08453DC21B6D81E5F",
+    "version": "1.2.9",
+    "inputSchema": 2,
+    "sourceRevision": "34240cb09e5c332147548a056b846d3fe9186efa",
+    "legacySourceSha256": "6D32455630DBF10596F25E88410ACCF4404AAE0BC17939D9441818CB2BE97CE0",
+    "dirtySource": false,
+    "id": "device",
+    "inputVersion": "1.2.8",
+    "file": "device-1.2.9.hctapp"
+  },
+  {
+    "sha256": "5C2944C6CB1BC53F227210B15E2010E4B7F40BB8470E4CC5FD860A0CD622927E",
+    "version": "1.2.9",
+    "inputSchema": 2,
+    "sourceRevision": "34240cb09e5c332147548a056b846d3fe9186efa",
+    "legacySourceSha256": "F5F866999FF50B52192A5AA9468D9883899710F2DC7D3593B14234461C0353A4",
+    "dirtySource": false,
+    "id": "camera",
+    "inputVersion": "1.2.8",
+    "file": "camera-1.2.9.hctapp"
+  },
+  {
+    "sha256": "A719E12AEF22F49649AB0612EE52996DB83CCBFB650723BE32110B4FB3DF3197",
+    "version": "1.2.9",
+    "inputSchema": 2,
+    "sourceRevision": "34240cb09e5c332147548a056b846d3fe9186efa",
+    "legacySourceSha256": "65A09880B23EAC4DDB1B185BC8CBF75654003642097C010B37D0F5B216D6CB21",
+    "dirtySource": false,
+    "id": "audio",
+    "inputVersion": "1.2.8",
+    "file": "audio-1.2.9.hctapp"
+  },
+  {
+    "sha256": "2B85CBD688694C25CCA4DF2611387CCC4CDAF557691EDF0C54629CF69E7664B6",
+    "version": "1.2.9",
+    "inputSchema": 2,
+    "sourceRevision": "34240cb09e5c332147548a056b846d3fe9186efa",
+    "legacySourceSha256": "4D5F48028E56065561348145D85DCF212EF10CB4B5BFA114530B0372566B0972",
+    "dirtySource": false,
+    "id": "mouse",
+    "inputVersion": "1.2.8",
+    "file": "mouse-1.2.9.hctapp"
+  },
+  {
+    "sha256": "8A0697DF48214E02A447427A3C2ADA052F410449AEC4D3DDAB7E7A16A0B83854",
+    "version": "1.2.9",
+    "inputSchema": 2,
+    "sourceRevision": "34240cb09e5c332147548a056b846d3fe9186efa",
+    "legacySourceSha256": "B08EC8E25A6724781C015182D2CDD4A7C9C80BCA555800A625354A6270E146D1",
+    "dirtySource": false,
+    "id": "plugin",
+    "inputVersion": "1.2.8",
+    "file": "plugin-1.2.9.hctapp"
+  }
+]
