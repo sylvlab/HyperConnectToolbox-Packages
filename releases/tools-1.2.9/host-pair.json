@@ -1,0 +1,13 @@
+{
+  "hostSourceRevision": "cf30697050b7b52c57dc39ad10330ebbe5d33f17",
+  "acceptance": "Same payloads and permissions as 1.2.8; real SCM update acceptance recorded by host separately.",
+  "catalogSchema": 2,
+  "releaseReceiptSha256": "452E0A7E385CF8F7F8CEB377535A3DD3333FA70C050458501B2249FED23BF01E",
+  "revision": 7,
+  "hostPublished": false,
+  "packageSchema": 2,
+  "packageSourceRevision": "34240cb09e5c332147548a056b846d3fe9186efa",
+  "packageVersion": "1.2.9",
+  "hostCandidate": "0.6.0-test.17",
+  "sessionProtocol": 1
+}

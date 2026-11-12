@@ -4,9 +4,9 @@
 
 ## 阶段 5 配套协议
 
-公开 `site/v1/stable` 仍是历史目录，本分支未替换它。共享 ToolHost 客户端使用独立 `/v2/stable/index.json`，强制目录 schema 2 和薄包 packageSchema 2；protocol 1 仍指现有工具会话协议，不能用它辨认新旧部署包。
+公开 `site/v1/stable` 保留历史客户端目录，`site/v2/stable` 为共享宿主提供已签名薄包目录。共享 ToolHost 客户端使用独立 `/v2/stable/index.json`，强制目录 schema 2 和薄包 packageSchema 2；protocol 1 仍指现有工具会话协议，不能用它辨认新旧部署包。
 
-候选目录位于 `fixtures/shared-1.2.8/v2/stable/`，不是 Pages 的部署输入。签名使用既有 CNG 发布密钥，私钥不进入仓库或 CI。目录引用的 tools-1.2.8 附件尚未声称已经公开上传。
+候选目录位于 `fixtures/shared-1.2.8/v2/stable/`，不是 Pages 的部署输入。签名使用既有 CNG 发布密钥，私钥不进入仓库或 CI。原始 tools-1.2.8 附件和维护版本 tools-1.2.9 已公开；当前版本及修订以 site/v2/stable 的有效签名目录为准。工具箱主应用仍为测试候选，正式代码签名、跨账户 UAC 与硬件验收另行记录。
 
 本地验证：
 
