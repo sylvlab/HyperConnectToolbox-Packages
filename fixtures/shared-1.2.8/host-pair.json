@@ -1,0 +1,15 @@
+{
+  "hostRepository": "sylvlab/HyperConnectToolbox",
+  "hostBranch": "feature/stage5-cloud-tools",
+  "hostSourceRevision": "b185a75909ccaf7103a8cf996b4fbd4be0b27730",
+  "hostCandidate": "0.6.0-test.14",
+  "catalogSchema": 2,
+  "toolPackageSchema": 2,
+  "sessionProtocol": 1,
+  "toolPayloadSourceRevision": "f972a61bf67b117f85452d6ad8be4ebd7328b371",
+  "indexSha256": "93CB761B55B2998461BF33B8174109C97D05A908DF6405F73E851ACD74C3829B",
+  "signatureSha256": "0C411753FD487BE77614B331120E2190C1B75BF3F2BE1A5016287719111C333C",
+  "productionDeployment": false,
+  "sourceReceipt": "source-receipts.json",
+  "acceptance": "Local fixture validation only; see host Stage-5 reports for actual installation and UI results."
+}

@@ -10,4 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: node scripts/verify.mjs --renewal-check
+      - run: |
+          node scripts/verify.mjs --renewal-check
+          if [ -f site/v2/stable/index.json ]; then
+            node scripts/verify.mjs --catalog site/v2/stable --renewal-check
+          fi

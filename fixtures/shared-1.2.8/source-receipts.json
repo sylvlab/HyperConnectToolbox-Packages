@@ -1,0 +1,74 @@
+[
+  {
+    "file": "windows-1.2.8.hctapp",
+    "sourceRevision": "f972a61bf67b117f85452d6ad8be4ebd7328b371",
+    "version": "1.2.8",
+    "dirtySource": false,
+    "legacySourceSha256": "016DDEEDF4C4A3DC0EB3DD244D5B6EE5EB342934F5EEFDCC2680282821A945EB",
+    "sha256": "8AFC2FDCA2D3570DDD5A2DB1A3DF40C80FACFD10C4CA7F2801D59E62576C5139",
+    "id": "windows"
+  },
+  {
+    "file": "service-1.2.8.hctapp",
+    "sourceRevision": "f972a61bf67b117f85452d6ad8be4ebd7328b371",
+    "version": "1.2.8",
+    "dirtySource": false,
+    "legacySourceSha256": "D35A10CB9CECDEF4414CC6CC036CA2367D4A7141939BF2716178C955F294A9C5",
+    "sha256": "8E840EC870EB321D5BC9CECBB0EFD7A1C7EBABA8E5E98D71260B1FD2CB54432A",
+    "id": "service"
+  },
+  {
+    "file": "status-1.2.8.hctapp",
+    "sourceRevision": "f972a61bf67b117f85452d6ad8be4ebd7328b371",
+    "version": "1.2.8",
+    "dirtySource": false,
+    "legacySourceSha256": "FAEDC3388FBF89470048DE0312DB225C1991BCB3E8E98D1A3BFF28F48844EC28",
+    "sha256": "2E0EEFC2124570C52A34A8EDEC690F461A92545CE90995E7CCD7EC10410AF34E",
+    "id": "status"
+  },
+  {
+    "file": "device-1.2.8.hctapp",
+    "sourceRevision": "f972a61bf67b117f85452d6ad8be4ebd7328b371",
+    "version": "1.2.8",
+    "dirtySource": false,
+    "legacySourceSha256": "31882401E1002FF67C9D5AF0DF763245D2CD5AADA6FF0E19F30F32BE153654DF",
+    "sha256": "6D32455630DBF10596F25E88410ACCF4404AAE0BC17939D9441818CB2BE97CE0",
+    "id": "device"
+  },
+  {
+    "file": "camera-1.2.8.hctapp",
+    "sourceRevision": "f972a61bf67b117f85452d6ad8be4ebd7328b371",
+    "version": "1.2.8",
+    "dirtySource": false,
+    "legacySourceSha256": "2A6B496F0C0045EAF11F7DE3C88DD0D81904A5CD94D52F0149DE9FFE1BD31B9F",
+    "sha256": "F5F866999FF50B52192A5AA9468D9883899710F2DC7D3593B14234461C0353A4",
+    "id": "camera"
+  },
+  {
+    "file": "audio-1.2.8.hctapp",
+    "sourceRevision": "f972a61bf67b117f85452d6ad8be4ebd7328b371",
+    "version": "1.2.8",
+    "dirtySource": false,
+    "legacySourceSha256": "7ACD4391F661E97F355B7EB4FA2C477F4755EFBF44993EAEB3EA4FD848C3D4DF",
+    "sha256": "65A09880B23EAC4DDB1B185BC8CBF75654003642097C010B37D0F5B216D6CB21",
+    "id": "audio"
+  },
+  {
+    "file": "mouse-1.2.8.hctapp",
+    "sourceRevision": "f972a61bf67b117f85452d6ad8be4ebd7328b371",
+    "version": "1.2.8",
+    "dirtySource": false,
+    "legacySourceSha256": "C2008CE2C2F98CF7BA5CFD1238CE7C60E970A12AC4E6DEE5E146B4AD6218975E",
+    "sha256": "4D5F48028E56065561348145D85DCF212EF10CB4B5BFA114530B0372566B0972",
+    "id": "mouse"
+  },
+  {
+    "file": "plugin-1.2.8.hctapp",
+    "sourceRevision": "f972a61bf67b117f85452d6ad8be4ebd7328b371",
+    "version": "1.2.8",
+    "dirtySource": false,
+    "legacySourceSha256": "ED4E6ACEDB65838B0E5A4E52FF765FCB743BE873997C75C0E6F96493813F3015",
+    "sha256": "B08EC8E25A6724781C015182D2CDD4A7C9C80BCA555800A625354A6270E146D1",
+    "id": "plugin"
+  }
+]
