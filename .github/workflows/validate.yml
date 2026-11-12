@@ -1,0 +1,17 @@
+name: Validate signed catalogs
+on:
+  pull_request:
+  push:
+    branches: ['feature/**']
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node scripts/verify.mjs
+      - run: node scripts/verify.mjs --catalog fixtures/shared-1.2.8/v2/stable --previous site/v1/stable/index.json
